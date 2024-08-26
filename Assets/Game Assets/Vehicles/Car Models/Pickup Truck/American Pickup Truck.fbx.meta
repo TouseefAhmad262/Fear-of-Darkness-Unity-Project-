@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: db3c62c763adbfb4bb5500a975f2f4fa
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BACKHEADLIGHT_GLASS_Mat
+    second: {fileID: 2100000, guid: 4d5d29c8cacbc88478e14a5292172bc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BACK_HEADLIGHTS_Mat
+    second: {fileID: 2100000, guid: 1aa229d75676ca149a50cb2208c53b19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CARPAINT_BODY_Mat
+    second: {fileID: 2100000, guid: 6001288549b2f144ca23dbbdef2c9724, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CARPAINT_BODY_Mat_Door_L
+    second: {fileID: 2100000, guid: 79824c69df0fce84ebaec88d38fa6d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CARPAINT_BODY_Mat_Door_R
+    second: {fileID: 2100000, guid: 4e6f56e775201df4c814cb4f690be33c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon_Fiber_Body_Mat
+    second: {fileID: 2100000, guid: 04151eecb4f4b8e4b86e2d6e1853f1da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon_Fiber_Body_Mat_Door_L
+    second: {fileID: 2100000, guid: 56eff04782527584599b9fad404e4c89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon_Fiber_Body_Mat_Door_R
+    second: {fileID: 2100000, guid: 4bc0fdb80ae73ba43b67a7c3ab151a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FRONT_HEADLIGHTS_Mat
+    second: {fileID: 2100000, guid: 3e0798db545dec940bbe16c0e62366c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GLASS_Mat
+    second: {fileID: 2100000, guid: ecf541acb2e5d3c47bab0631b0abdb9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GLASS_Mat_Door_L
+    second: {fileID: 2100000, guid: 2bc9e383f15089941bf65be53be51b6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GLASS_Mat_Door_R
+    second: {fileID: 2100000, guid: edc1ce2824f4eb3429cfaded36413f4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HOOK_MAT
+    second: {fileID: 2100000, guid: 4a51a130c2337cf46848ce1d8a20f85b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SEAT_Mat
+    second: {fileID: 2100000, guid: 1af199c25ff71a3488941047482f5552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SIDE_MIRROR_GLASS_Mat
+    second: {fileID: 2100000, guid: 0cf22d67974e79c40b8ba859fa2964c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SIDE_MIRROR_GLASS_Mat_Door_R
+    second: {fileID: 2100000, guid: 4199578b9c009d7468297fab0dee4d01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SIDE_MIRROR_Mat
+    second: {fileID: 2100000, guid: 99744fe76e7bec041a5b99728bfd7b7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SIDE_MIRROR_Mat_Door_R
+    second: {fileID: 2100000, guid: d327a1af467e1c341b221094dbe207bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL_Mat
+    second: {fileID: 2100000, guid: 2630cf5b512018847972791da2fdf192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TYRE_MAT
+    second: {fileID: 2100000, guid: 706d8d46486f3b94c8ae93dc056e29f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TYRE_MAT_Wheel_Front_R
+    second: {fileID: 2100000, guid: c972efa7876acd1478e4332dc6aef88d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TYRE_MAT_Wheel_Rear_L
+    second: {fileID: 2100000, guid: a71b24d89b9a78e428e2e67dfed7d62d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TYRE_MAT_Wheel_Rear_R
+    second: {fileID: 2100000, guid: a6166a1e531491344b6a7d0cccbe0a75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TYRE_METAL_Mat
+    second: {fileID: 2100000, guid: 8726037099d590f41be7931dada31006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TYRE_METAL_Mat_Wheel_Front_R
+    second: {fileID: 2100000, guid: 4caba112a33cd974692cc66642b19ec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TYRE_METAL_Mat_Wheel_Rear_L
+    second: {fileID: 2100000, guid: 4cc322d92a92c964c9aeba24949cabc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TYRE_METAL_Mat_Wheel_Rear_R
+    second: {fileID: 2100000, guid: f06dbbb458b735e498a42e90a3101ac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bottom_Metal_Part_Mat
+    second: {fileID: 2100000, guid: 2707588371db3d044bdde1166eb0d870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: break_Metal_Mat
+    second: {fileID: 2100000, guid: 4997cc106d2648242bba51dc5dcfd11a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: engine_Metal_Mat
+    second: {fileID: 2100000, guid: 2047d85b8d4eafb42aa34dbfe27064ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_Mat
+    second: {fileID: 2100000, guid: c15e02a3a2caad84a96725a41d854293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_Mat_Door_L
+    second: {fileID: 2100000, guid: faa6fca70cf76e649b6c05ac70ae8ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_Mat_Door_R
+    second: {fileID: 2100000, guid: be55ff73c694c764dba2a2755d53297c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rope_Mat
+    second: {fileID: 2100000, guid: 4b6513467ef997841a935d699aea71ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stand_Metal_mat
+    second: {fileID: 2100000, guid: 8c8417117d93ed44c8053982c89156e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: staring_Mat
+    second: {fileID: 2100000, guid: 55823b098e484b944b6c967a88f4e7ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wiper
+    second: {fileID: 2100000, guid: b8913ec0c347e2147a1744464c222ee1, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
